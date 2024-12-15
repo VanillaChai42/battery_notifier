@@ -1,0 +1,8 @@
+[package]
+name = "Battery_Notifier"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+battery = "0.7.8"
+notify-rust = "4.11.3"
